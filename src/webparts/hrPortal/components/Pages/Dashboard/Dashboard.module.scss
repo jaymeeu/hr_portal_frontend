@@ -1,0 +1,46 @@
+//.sideBar{margin: 0; padding: 0; float:left; width: 13%; height: 100% ; background-color:none; box-sizing: border-box; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18); }
+.root{margin: 0; padding: 0; width:100% ; height:100vh ; box-sizing: border-box;}
+.container{margin: 0; padding: 0 50px; float:left; width:73% ; height:100vh ; box-sizing: border-box;}
+.search{margin: 0; padding: 0;width:100%  ; height: 5% ; background-color:red; box-sizing: border-box;}
+.head{margin: 0; width: 100%; height: 25%; box-sizing: border-box;}
+ 
+.cards{ margin: 0; padding:  20px 0 0 0 ;width: 100%; height: 20%; background-color:none; box-sizing: border-box;}
+.cardTitle{ width: 100%; height: 20%; margin:0; padding:0 ; font-size:10; font-weight:bolder; float: left; box-sizing: border-box;}
+.card{  margin: 0; padding: 0 ;width: 100%; height: 80%; font-size: 10px; font-weight: bolder; box-sizing: border-box;}
+.card :hover{transform: scale(1.1); }
+
+.base{margin: 0; padding: 0; width: 100%; height:40% ; background-color:none; box-sizing: border-box;}
+
+.notification{margin: 0; padding: 0 ; width: 50% ; height:100% ; background-color:none; box-sizing: border-box; float:left;}
+.tableTitle{width: 100%; height: 10%; margin:0; padding:0; font-size:10; font-weight:bolder ; float: left; box-sizing: border-box;}
+.table{margin: 0; padding: 0 ;width: 100%; height: 90%; box-sizing: border-box;}
+
+.chartDiv{margin: 0; padding: 0 ; width: 100%; height: 100%; background-color:none; box-sizing: border-box; float:left;}
+.chartTitle{width: 100%; height: 5%; margin:0; padding:0 ; font-size:10; font-weight:bolder ; float: left; box-sizing: border-box;}
+.chart{margin: 0; padding: 0 ;width: 100%; height: 90%; box-sizing: border-box;}
+
+.rightBar{margin: 0; float:left; padding: 0;width: 27%; height: 100vh; background-color:#572594; box-sizing: border-box;}
+.insideRightBar{width: 100%; height: 100%; margin: 0; padding: 30px; box-sizing: border-box;}
+.top{ margin: 0 auto; width: 100%; height: 10%;}
+.time{ margin: 0 auto; width: 50%; height: 100%;float: left;} 
+.weather{ margin: 0 auto; width: 50%; height: 100%;float: left;}
+
+.calendar{ margin: 0 auto; margin-top: 30px; width: 100%; height: 25%; box-sizing: border-box; }
+
+.stat{ margin: 0 auto; width: 100%; height: 65%; box-sizing: border-box;}
+.statCards{ margin: 0 auto; width: 100%; height: 70%; box-sizing: border-box;}
+.statCard{ padding:20px; margin: 0 auto; border-radius:15px; width:100%; margin-top: 8%; height: 42%; background-color: #f8c333; box-sizing: border-box; }
+.statNum{ margin: 0 auto; width: 100%; height: 30%; box-sizing: border-box;}
+.statUser{ margin: 0 auto; width: 50%; height: 100%;background-color: none; box-sizing: border-box; float: left;}
+
+
+.profile{ width:100%; height: 100px; text-align: center; margin-bottom: 30px;}
+.pics{ margin:0 auto; width:80px; height: 80px; border-radius: 50%; background-color: whitesmoke; box-sizing: border-box;}
+.pics img{width:80px; height: 80px; border-radius: 50%; max-width:80px; max-height: 80px;  }
+.profile span{color:white;}
+.sideBar{margin: 0; float:left; width: 100%; height: 100vh ;  box-sizing: border-box; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18); }
+
+.main{margin: 0; padding: 0; float:left; width:84% ;  height:100% ; box-sizing: border-box;}
+
+.sideBarLinks{width: 16%;height: 100vh; margin: 0;  float: left; padding: 80px 0 0 0; background: linear-gradient(#d119ca,#3e0287, #3e0287); background: #3e0287; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18); box-sizing: border-box;}
+.loader{width: 100%; height: 100vh; justify-content: center; align-items: center; padding: 0; padding-left: 40%; margin: 0; box-sizing: border-box; margin-top: 20%;}

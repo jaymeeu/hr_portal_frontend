@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hr-portal-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/hrPortal/HrPortalWebPart.js",
+          "manifest": "./src/webparts/hrPortal/HrPortalWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "HrPortalWebPartStrings": "lib/webparts/hrPortal/loc/{locale}.js"
+  }
+}

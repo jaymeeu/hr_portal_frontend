@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.container{margin: 0; padding: 0;width: 100%; height: 100vh; background-color:none;  box-sizing: border-box;}
+.content{height: 90%; width: 100%; padding: 0 25px; box-sizing: border-box;}
+.search{margin: 0; padding: 0;width:100%  ; height: 10% ; background-color:none; box-sizing: border-box;}
+.tableH{height: 10%; width: 100; margin-bottom: 20px;}
+.staffTable{height: 90%; width: 100;}
+.info{width: 17%; height: 100%; float: left; }
+.performanceChart{width: 83%; height: 100%; float: left; }
+.forEditForm{width: 65%; height: 100%; float: left; padding: 25px;}
+.performanceSummary{width: 100%; height: 40%; box-sizing: border-box; padding: 0; margin: 0; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18);}
+.chart{width: 70%; height: 100%; float: left; box-sizing: border-box;}
+.buttons{width: 30%; height: 100%; float: left; box-sizing: border-box; }
+.button{width: 65%; height: 100%;  padding-top:70px;  box-sizing: border-box; float:right; margin-right: 50px;}
+.picture{width: 100%; height:40%;}
+.dp{width:100%; height: 80%}
+.dp img{max-width: 160px; max-height:240px ; margin-top: 20px; float:right;}
+.dpinfo{ width:100%; height: 20%; text-align: center;}       
+.details{width: 100%; height: 60%; padding:0; box-sizing:border-box;}
+.cards{width: 500px; height: 150px; border: 2px solid black; border-radius: 15px; margin: 10px;}
+
+.addEmployeeForm{width: 380px; height: 450px;  margin: 0 auto; padding:20px 30px; box-sizing: border-box;}
+
+.addForm{width: 100%; height: 100%; margin: 0; padding:0;}
+
+.profile{ width:100%; height: 100px; text-align: center; margin-bottom: 30px;}
+.pics{ margin:0 auto;  width:80px; height: 80px; border-radius: 50%; background-color: whitesmoke; box-sizing: border-box;}
+.pics img{width:80px; height: 80px; border-radius: 50%; max-width:80px; max-height: 80px;  }
+.profile span{color:white;}
+
+.sideBar{margin: 0; float:left; width: 100%; height: 100vh ;  box-sizing: border-box; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18); }
+
+.main{margin: 0; padding: 0; float:left; width:84% ;  height:100% ; box-sizing: border-box;}
+
+.sideBarLinks{width: 16%;height: 100vh; margin: 0;  float: left; padding: 80px 0 0 0; background: linear-gradient(#d119ca,#3e0287, #3e0287); background: #3e0287; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.18); box-sizing: border-box;}
